@@ -36,7 +36,7 @@ Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-### To contribute:
+## To contribute:
 
     Fork the project.
     Create your feature branch (git checkout -b feature/AmazingFeature).
@@ -44,13 +44,10 @@ Contributions are what make the open-source community such an amazing place to l
     Push to the branch (git push origin feature/AmazingFeature).
     Open a pull request.
 
-### License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 Contact
-
-Project Link: https://github.com/yourusername/WinDomainDeploymentKit
-Acknowledgements
 
 ## Acknowledgements
 
